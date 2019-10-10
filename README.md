@@ -61,3 +61,4 @@ Example usage:
 >>> from newspaper_search import Search
 >>> Search.search('your', 'keywords')
 ````
+
